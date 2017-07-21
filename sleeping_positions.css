@@ -1,0 +1,55 @@
+body {
+  font-family: 'Annie Use Your Telescope';
+  font-size: 22px;
+}
+#heading1 {
+ text-align: center;
+ color: white;
+}
+
+.pros_cons{
+  color: white;
+
+}
+.box {
+  opacity:0.5;
+}
+section {
+  display: inline-block;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+/*div {
+  background-color:black;
+  align-content: center;
+  height: inherit;
+  width:inherit;
+}*/
+div {
+
+  align-items: center;
+}*/
+/*.pro_cons_box {
+    background-color: #0B0B3B;
+    width: 300px;
+    border: 20px black;
+    padding: 25px;
+    margin: 25px;
+    align-items: center;
+}*/
+.sections{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.prosCons{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+li{
+  text-align: left;
+}

@@ -2,6 +2,7 @@ body {
   font-family: 'Annie Use Your Telescope';
   font-size: 22px;
 }
+
 #heading1 {
  text-align: center;
  color: white;
@@ -16,6 +17,11 @@ body {
 }
 section {
   display: inline-block;
+  background-color: #0B0B3B;
+  width: 350px;
+  height: 300px;
+
+}
 }
 img {
     display: block;

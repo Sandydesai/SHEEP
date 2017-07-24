@@ -1,0 +1,37 @@
+body {
+  background-image:url(http://wallpapercave.com/wp/BMrmUGk.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Annie Use Your Telescope';
+  font-size:15px;
+}
+
+.recipe {
+color: white;
+text-align: center;
+}
+.box1 {
+  background-color:#000033;
+
+}
+.box {
+  background-color: white;
+}
+.recipe2 {
+  color: white;
+}
+.box3 {
+  text-align: center;
+
+}
+.box4{
+    margin-left: 125px;
+    padding-bottom: 25px;
+    padding-left: 60px;
+    padding-right: 25px;
+    background-color: #0B0B3B;
+    width: 1000px;
+
+
+
+}

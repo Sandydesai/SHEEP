@@ -1,0 +1,35 @@
+body {
+background-image:url('https://media.giphy.com/media/GC7C2Fi902BDG/giphy.gif');
+background-repeat: no-repeat;
+/*background-height: 100vh;
+background-width: auto;"*/
+background-size: cover;
+}
+.about {
+  margin-top: 150px;
+  margin-left: 250px;
+  margin-right: 275px;
+}
+
+h1 {
+  display: flex;
+      justify-content: center;
+  color: white;
+  font-size: 50px;
+  background-color: #0B0B3B;
+}
+.logo{
+margin-top: 30px;
+
+}
+p{
+  color: white;
+  font-size: 30px;
+  background-color: #0B0B3B;
+  /*width: 00px;*/
+  /*height: 600px;*/
+  padding-left: 100px;
+    padding-right: 100px;
+padding-top: 20px;
+padding-bottom: 20px;
+}

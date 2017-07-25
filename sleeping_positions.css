@@ -2,6 +2,7 @@ body {
   font-family: 'Annie Use Your Telescope';
   font-size: 22px;
 }
+
 #heading1 {
  text-align: center;
  color: white;
@@ -10,12 +11,18 @@ body {
 .pros_cons{
   color: white;
 
+
 }
 .box {
   opacity:0.5;
 }
 section {
   display: inline-block;
+  background-color: #0B0B3B;
+  width: 350px;
+  height: 300px;
+
+}
 }
 img {
     display: block;
